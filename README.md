@@ -1,2 +1,3 @@
 # ModernTerminal
-A modern looking terminal for real hackers
+
+This is a Terminal that is just made to look cool to Non-Programmers.
